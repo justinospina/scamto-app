@@ -1,0 +1,25 @@
+name: scamto_app
+description: "Proyecto de escaneo por proximidad y reconocimiento de género."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.7 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  permission_handler: ^13.0.1
+  image_picker: ^1.1.2
+  google_mlkit_face_detection: ^0.14.0
+  flutter_blue_plus: ^2.3.12
+  socket_io_client: ^2.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

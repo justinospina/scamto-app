@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481249078173",
+    "project_id": "scamto-4af33",
+    "storage_bucket": "scamto-4af33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481249078173:android:fe9f308614a3dd91615d74",
+        "android_client_info": {
+          "package_name": "com.example.scamto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpkfG259aIwCLp9DuLuT7cGCNkG0tnyeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
